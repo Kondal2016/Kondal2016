@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kondal2016
-- 👀 I’m interested in Data analyst
+- 👀 I’m interested in Data science field.
 - 🌱 I’m currently learning how to Host a Mechine in aws infrastructure using ci/cd pipeline
 - 💞️ I’m looking to collaborate ...
 - 📫 How to reach me @tkondalrao2000@gmail.com/6281340335
